@@ -1,7 +1,8 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.zazzle.com/susanad813'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - t-shirts
   - zb086
 description: Photo prints and gifts
-datePublished: '2016-03-02T04:08:16.740Z'
-dateModified: '2016-03-02T04:08:10.512Z'
+datePublished: '2016-03-02T04:10:05.769Z'
+dateModified: '2016-03-02T04:09:09.605Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: www.zazzle.com
   url: 'http://www.zazzle.com'
   favicon: 'http://asset.zcache.com/assets/graphics/z4/uniquePages/zMisc/favicons/favicon.ico'
-url: zazzle-store/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
