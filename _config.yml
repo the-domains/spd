@@ -1,0 +1,28 @@
+name: "Susan's Photo Dump"
+favicon: null
+layout_spectrum: 0.2619005686137825
+typography_spectrum: 0.5795957092195749
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.918233924312517
+  lightness: 0.9445746312849224
+  saturation: 0.288964954437688
+  rhythmicContrast: 0.3506765274796635
+purpose: []
