@@ -1,6 +1,6 @@
 name: "Susan's Photo Dump"
 favicon: null
-layout_spectrum: 0.24952
+layout_spectrum: 0.91013
 typography_spectrum: 0
 title: "Susan's Photo Dump"
 cta:
@@ -24,6 +24,6 @@ color:
     - '#deb1b4'
   brandStrength: 0.918233924312517
   lightness: 0.8125
-  saturation: 0.288964954437688
+  saturation: 0.8125
   rhythmicContrast: 0.3506765274796635
 purpose: []
