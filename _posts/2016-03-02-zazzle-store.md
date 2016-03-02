@@ -16,20 +16,20 @@ keywords:
   - t-shirts
   - zb086
 description: Photo prints and gifts
-datePublished: '2016-03-02T03:55:46.222Z'
-dateModified: '2016-03-02T03:55:39.570Z'
+datePublished: '2016-03-02T03:58:28.342Z'
+dateModified: '2016-03-02T03:57:30.823Z'
 author: []
 related: []
 app_links: []
 title: Zazzle Store
+sourcePath: _posts/2016-03-02-zazzle-store.md
+published: true
 authors: []
 publisher:
   name: Zazzle
   domain: www.zazzle.com
   url: 'http://www.zazzle.com'
   favicon: 'http://asset.zcache.com/assets/graphics/z4/uniquePages/zMisc/favicons/favicon.ico'
-sourcePath: _posts/2016-03-02-zazzle-store.md
-published: true
 url: zazzle-store/index.html
 _context: 'http://schema.org'
 _type: MediaObject
