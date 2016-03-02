@@ -16,8 +16,8 @@ keywords:
   - t-shirts
   - zb086
 description: Photo prints and gifts
-datePublished: '2016-03-02T04:00:45.977Z'
-dateModified: '2016-03-02T04:00:05.371Z'
+datePublished: '2016-03-02T04:06:24.690Z'
+dateModified: '2016-03-02T04:05:09.059Z'
 author: []
 related: []
 app_links: []
@@ -39,4 +39,4 @@ _type: MediaObject
 
 Photo prints and gifts
 
-<article style=""><h1>Susan E Adams Photography</h1><p>Nature and Art Photographer since 2001</p><img src="http://rlv.zcache.com/svc/getimage?id=DEA8E545-1CF5-4F27-9843-BF9D4896D5A1&amp;square_it=fill&amp;max_dim=300&amp;uhmc=KokjfCQT_nKESdsouJiQGdU-ZUA1" /></article>
+<article style=""><h1>Susan E Adams Photography</h1><p>Nature and Art Photographer since 2001</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36388b2bb7c5c6d6a6888bcb2d75da72603dc6be.jpg" /></article>
