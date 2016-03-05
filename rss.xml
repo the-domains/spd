@@ -4,11 +4,18 @@
         <description><![CDATA[Susan's Photo Dump]]></description>
         <link>https://thegrid.ai/spd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 20:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 20:15:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Learning Process]]></title>
+            <description><![CDATA[<article><h1>Learning Process</h1><p>This site is likely to undergo drastic, horrible changes until I figure out what the heck I'm doing and how to use thegrid.io.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce2f22b8e02b30a2c4b8a2b97d34d8315c847821.jpg"></article>]]></description>
+            <link>https://thegrid.ai/spd/learning-process/index.html</link>
+            <guid isPermaLink="false">ef80cd64-6149-43a4-9624-bf549364c07b</guid>
+            <pubDate>Sat, 05 Mar 2016 20:15:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Susan E Adams Photography]]></title>
-            <description><![CDATA[<article><h1>Susan E Adams Photography</h1><p>Nature and Fine Art photography based in North Texas</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cdd492fb78fee4d957897ea323b6a2be92ecb88.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Susan E Adams Photography</h1><p>Nature and Fine Art photography based in North Texas</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/939e7086bd5399d0fb6923665f890e4687e46b2a.jpg"></article>]]></description>
             <link>http://susaneadams.com/</link>
             <guid isPermaLink="false">3fdc3096-9022-4557-b4f5-b4573271a1ae</guid>
             <pubDate>Sat, 05 Mar 2016 20:13:32 GMT</pubDate>
@@ -19,13 +26,6 @@
             <link>http://www.zazzle.com/susanad813</link>
             <guid isPermaLink="false">a0b51c70-dbe5-4e82-aed1-5743626b04a4</guid>
             <pubDate>Wed, 02 Mar 2016 04:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learning Process]]></title>
-            <description><![CDATA[<article><h1>Learning Process</h1><p>This site is likely to undergo drastic, horrible changes until I figure out what the heck I'm doing and how to use thegrid.io.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce2f22b8e02b30a2c4b8a2b97d34d8315c847821.jpg"></article>]]></description>
-            <link>https://thegrid.ai/spd/learning-process/index.html</link>
-            <guid isPermaLink="false">ef80cd64-6149-43a4-9624-bf549364c07b</guid>
-            <pubDate>Wed, 02 Mar 2016 04:32:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
