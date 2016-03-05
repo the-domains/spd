@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A dumping ground for photos and miscellany while I learn how to use The Grid.
-datePublished: '2016-03-02T04:32:00.408Z'
-dateModified: '2016-03-02T04:30:54.543Z'
+datePublished: '2016-03-05T20:15:15.206Z'
+dateModified: '2016-03-05T20:15:07.812Z'
 title: Learning Process
 author: []
 sourcePath: _posts/2016-03-02-learning-process.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: learning-process/index.html
 _type: Article
 
