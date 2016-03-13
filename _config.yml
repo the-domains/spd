@@ -1,5 +1,8 @@
+name: "Susan's Photo Dump"
+favicon: null
+layout_spectrum: 0.99875
+typography_spectrum: 0
 title: "Susan's Photo Dump"
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 0.7702128
   brandColors:
     - '#f9f5ea'
     - '#d9ceae'
     - '#808780'
     - '#2c4b66'
     - '#000000'
-  rhythmicContrast: 0.8276595
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: "Susan's Photo Dump"
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 0.99875
+  brandStrength: 0
+  lightness: 0.7702128
+  saturation: 1
+  rhythmicContrast: 0.25
+purpose: []
