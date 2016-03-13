@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "This site is likely to undergo drastic, horrible changes until I figure out what the heck I'm doing and how to use thegrid.io."
-datePublished: '2016-03-13T02:53:27.826Z'
-dateModified: '2016-03-13T02:53:06.350Z'
+datePublished: '2016-03-13T02:59:10.070Z'
+dateModified: '2016-03-13T02:58:49.930Z'
 title: Learning Process
 author: []
 sourcePath: _posts/2016-03-02-learning-process.md
