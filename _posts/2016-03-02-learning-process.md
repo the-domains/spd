@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: "This site is likely to undergo drastic, horrible changes until I figure out what the heck I'm doing and how to use thegrid.io."
-datePublished: '2016-03-13T02:51:03.207Z'
-dateModified: '2016-03-13T02:49:51.609Z'
+datePublished: '2016-03-13T02:53:27.826Z'
+dateModified: '2016-03-13T02:53:06.350Z'
 title: Learning Process
 author: []
 sourcePath: _posts/2016-03-02-learning-process.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: learning-process/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Learning Process
