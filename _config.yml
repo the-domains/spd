@@ -1,7 +1,7 @@
 name: "Susan's Photo Dump"
 favicon: null
-layout_spectrum: 0.99875
-typography_spectrum: 0
+layout_spectrum: 0.99527
+typography_spectrum: 0.49527
 title: "Susan's Photo Dump"
 collections:
   - index:
