@@ -15,24 +15,27 @@ keywords:
   - za7q0n
   - zaxrxi
   - twentyoffzaz
-description: 24 Hour Shipping on most orders. Color Isolated Flowers Card created by susanad813. This design is available in several sizes and is totally customizable.
-datePublished: '2016-04-29T13:39:14.643Z'
-dateModified: '2016-04-29T13:38:56.853Z'
+description: >-
+  24 Hour Shipping on most orders. Color Isolated Flowers Card created by
+  susanad813. This design is available in several sizes and is totally
+  customizable.
+datePublished: '2016-07-06T22:02:20.775Z'
+dateModified: '2016-07-06T22:01:52.415Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
 title: Color Isolated Flowers Card
+sourcePath: _posts/2016-04-29-color-isolated-flowers-card.md
 authors: []
 publisher:
   name: Zazzle
   domain: www.zazzle.com
   url: 'http://www.zazzle.com'
-  favicon: 'http://asset.zcache.com/assets/graphics/z4/uniquePages/zMisc/favicons/favicon.ico'
+  favicon: >-
+    http://asset.zcache.com/assets/graphics/z4/uniquePages/zMisc/favicons/favicon.ico
 starred: false
-sourcePath: _posts/2016-04-29-color-isolated-flowers-card.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
