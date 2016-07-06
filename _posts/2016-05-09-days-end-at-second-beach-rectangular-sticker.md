@@ -2,7 +2,8 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.zazzle.com/days_end_at_second_beach_rectangular_sticker-217138160906570193'
+isBasedOnUrl: >-
+  http://www.zazzle.com/days_end_at_second_beach_rectangular_sticker-217138160906570193
 inLanguage: en
 keywords:
   - sticker
@@ -16,22 +17,23 @@ keywords:
   - design
   - round
 description: Washington
-datePublished: '2016-05-09T13:59:58.196Z'
-dateModified: '2016-05-09T13:59:45.273Z'
+datePublished: '2016-07-06T21:54:17.309Z'
+dateModified: '2016-07-06T21:54:11.113Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
-title: "Day's End at Second Beach Rectangular Sticker"
+title: Day's End at Second Beach Rectangular Sticker
+sourcePath: _posts/2016-05-09-days-end-at-second-beach-rectangular-sticker.md
 authors: []
 publisher:
   name: Zazzle
   domain: www.zazzle.com
   url: 'http://www.zazzle.com'
-  favicon: 'http://asset.zcache.com/assets/graphics/z4/uniquePages/zMisc/favicons/favicon.ico'
+  favicon: >-
+    http://asset.zcache.com/assets/graphics/z4/uniquePages/zMisc/favicons/favicon.ico
 starred: false
-sourcePath: _posts/2016-05-09-days-end-at-second-beach-rectangular-sticker.md
 _context: 'http://schema.org'
 _type: MediaObject
 
