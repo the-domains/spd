@@ -1,8 +1,8 @@
-name: "Susan's Photo Dump"
+name: Susan's Photo Dump
 favicon: null
 layout_spectrum: 0.99527
 typography_spectrum: 0.49527
-title: "Susan's Photo Dump"
+title: Susan's Photo Dump
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#495666'
-    - '#c2cbca'
-    - '#180000'
-    - '#cd447e'
-    - '#ab8da8'
-  brandStrength: 0
-  lightness: 0.7702128
-  saturation: 0.6875
+    - '#c2beb3'
+    - '#fefefe'
+    - '#090909'
+    - '#31616f'
+    - '#5c4123'
+  brandStrength: 0.125
+  lightness: 0.6875
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
