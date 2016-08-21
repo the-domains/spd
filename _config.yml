@@ -1,4 +1,6 @@
 typography_spectrum: 0.16542
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#c2beb3'
@@ -19,6 +21,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Susan Adams
+  email: susanad813@gmail.com
+  url: SusanEAdams.com
 name: Susan's Photo Dump
 cta:
   domain: null
